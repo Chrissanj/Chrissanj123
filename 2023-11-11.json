@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Phillips",
+  "age": 61,
+  "address": {
+    "street": "Heked Mill",
+    "city": "Sedkimvun",
+    "state": "PA",
+    "zip": "91997"
+  },
+  "contact": {
+    "phone": "(800) 810-9097",
+    "servicePhone": "800612889"
+  },
+  "birthday": "1980-06-21T23:43:20.700Z",
+  "ip": "20.242.100.159",
+  "foo": "bar",
+  "profile": {
+    "about": "Oz monkos wa regega vasejjeg mukuve cegora duwahlu hovut nodu asdem ro. Ev zu cuvivdo rivzog pokrut kuz gup etalu pifien go ehcede fiosgi wioz ifzi bo tuzni. Famu sof uduvem civucuwi eba nir jelgad ilu wecjud tolociho dudpu agomjad fa ot ma. Te ta akodis icejelib faw difoisi backov ta ki si ajwumwul fizi sukus jazacri dige ev puj um. Fecvuhmub mi og wanu kes dabuh jaj wufacwe ipiru em ropizos vowuz di wojsige kaoheh tuucuupe.",
+    "bio": "Kawkum jirohoor efemavdu sin pur oku evobe ho wo pepja waf am dibge nodjanen. Meh zap su vus imagakfat uvhel ma rursono muzru fun weibraf fe. Tol gezzuwze ji hud vur hu te femevuvi zop ekgo oh fafo kojop."
+  },
+  "apiKey": "c3bb20e3315e678f1f9be9dd0251b93792b2e2bed611b7ba19d9b2ee09dd2532",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
