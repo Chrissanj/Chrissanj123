@@ -1,0 +1,26 @@
+{
+  "name": "Cornelia Gibson",
+  "age": 22,
+  "address": {
+    "street": "Kuej Loop",
+    "city": "Gudkuble",
+    "state": "UT",
+    "zip": "74447"
+  },
+  "contact": {
+    "phone": "(631) 728-3890",
+    "servicePhone": "800183232"
+  },
+  "birthday": "1962-05-02T17:18:11.723Z",
+  "ip": "108.212.192.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Jonka ve tolvifri uk ceetaoci vaukoje gu acoadifot mudevoce giova vuhiza ub vog tasfo zi gigu lu. Wizaj epda zafulmap cus jagtawveb woopu ucjim riwofbo fozbe timaom da ti vu vuh ovjofer. Tic pov pi bidkibze venderu lahujne edo uv vomwo dijevrac getron duredkas sote dedbi tukizaji sifioro oreife zij. Cahdo pingovpu wok herfa hojcoh gikukro eku wif iv guweb urgib papadu roroj une bato mokpa oge.",
+    "bio": "Actebweb uziowre tahhilut og pe pu nori wout awoedfu arobun mudriteve onumabam jim fun. Jodifu lu micub tooziboc juplemji zul fuv iraopune pibef gomwavic sa taoloba fa foguc subku. Lul zatrec ar daija lafe mudeg zuihdog beteulo himwafim suwamumu fusabuf zawrigta mus."
+  },
+  "apiKey": "ae05fae6fd9246ea358c2106bcd9f080e8bb31b669b3e1cea1a970cb2b016419",
+  "currency": {
+    "code": "THB",
+    "name": "Thailand Baht"
+  }
+}
