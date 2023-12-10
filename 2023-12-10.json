@@ -1,0 +1,26 @@
+{
+  "name": "Henry Oliver",
+  "age": 36,
+  "address": {
+    "street": "Oducir Place",
+    "city": "Pirdomnok",
+    "state": "KS",
+    "zip": "10388"
+  },
+  "contact": {
+    "phone": "(941) 452-7118",
+    "servicePhone": "800786874"
+  },
+  "birthday": "1992-06-30T01:08:16.681Z",
+  "ip": "214.35.38.155",
+  "foo": "bar",
+  "profile": {
+    "about": "Mulwutwen reuvavon cac ba upe zoc ak hud pel harjib mirsufvo rub veebho elo viftasvoh pevusu vifo manoc. Ahu wa cazeowo pan tecuz wig leb uva ed min fajejoko bub zovca ossi. Domejjat og ihumaucu da te nedag keec evuji riw beggutge pomwi ogrum fumwon gejwemin mek. Vuzado ma sehuura hacboccut majione ducduac usuce is mewe fir lol ece jodoplem lodpaapi mitavgud wak kessajif. Ze ilalep ziklo rarmaflu giapoc mi zem em oviza zicoisu zaukget huftuhuh fa bojit epefuuno vep.",
+    "bio": "Jewkalji uvaga abupi ga dollumsag teet basu citaz opicas wos bedhezli izza kazedpit. Egjus foksuswoh mihos rivarvo ut vilcaf powoc zat paog fepijvan amepijuj loj nohudba iclelhev. Vofek pakino areniica da zuaduep fum zubfu bumnozu wepa rug nag wedotu ublizlip kir. Ihza ririloec neujah hiwejuon du fe kudsobod tefe botom fun wa wejuh beopdag aceanu zuseco."
+  },
+  "apiKey": "9e85e052f779086e8a2308b55ea457b9b462c57216fddcd0e3b7b7916520f431",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
