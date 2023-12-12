@@ -1,0 +1,26 @@
+{
+  "name": "Birdie Norris",
+  "age": 32,
+  "address": {
+    "street": "Dagis Avenue",
+    "city": "Cazlarvag",
+    "state": "IL",
+    "zip": "17776"
+  },
+  "contact": {
+    "phone": "(906) 629-8449",
+    "servicePhone": "800975937"
+  },
+  "birthday": "1969-06-16T19:11:05.183Z",
+  "ip": "171.248.144.53",
+  "foo": "bar",
+  "profile": {
+    "about": "Gib loguhu zi tih ja fihbakod fi ibajukaf guwga moucbis kow pah usupuzguz lazar kuboten. Cef dod piocefa nidbut duip ko erin muf tinfapno ozrot kegafe up orosojec. Zeaze oged dugjaf fujcus bup cilokipo tan upapucili nelufja beda ivsok akbufu woraf virkubim jogjuf.",
+    "bio": "Fetkiru wutkikfo ge kirfaw egu mo kum jamtiw liv luv vic low. Naz uze gaha muv ewuurobu favug ug lo sodahuwiv fapeni puiflon wubowi ivu wiwud. Bikonniz wom wussem wo ceg gah vewu vesaec dihmu hih vonnu pa ta upu ko. Zolfot sam wu vawavheh ke afu kopli cahjolem kil mowwicjed japudlag repaati nuwbobjum lojnuv. Po uv fuhgen fuc vupifaozo upiwe vasah kotop tihne faj huphovvas jecdo tocinsa pifvo di lekat. Tavojwo avigop dijwunuv tu za pivo azova oba jofduwi ce pak jo or uralef guj celen."
+  },
+  "apiKey": "db41ad322e234c24d48b67b7bbc1b3ea5749b1e7215832a8712333e490ef5752",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
