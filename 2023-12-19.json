@@ -1,0 +1,26 @@
+{
+  "name": "Jeff Reynolds",
+  "age": 50,
+  "address": {
+    "street": "Jomri Loop",
+    "city": "Adavafkef",
+    "state": "AR",
+    "zip": "28742"
+  },
+  "contact": {
+    "phone": "(279) 398-7572",
+    "servicePhone": "800666735"
+  },
+  "birthday": "1992-07-27T08:52:01.208Z",
+  "ip": "19.249.112.87",
+  "foo": "bar",
+  "profile": {
+    "about": "Divju zasij mubhama gagodmu zuz la ekivase juvbojog cubov polimi mu fasahev ta zirwafono far vako awa. Kesla cuk ataun jovju igjoam mopaazi megwojub wu gip cuw runete rajup otujet potuv sa ahududuw ogikom. Eziasgik hib fu jacaser ilemufnif ogeige vid kotivuvih pigoibi tiw ir hebheh fu otekod rilduzuz. Hulwij cerjom vi ocmalfo giufezun zeppep waatoep natubusi ujba macfupgo hino jumpitek tufezam puc nebunlu zorvadkir guzneweji.",
+    "bio": "Tuvvig fulvo norpomlus sen gikehsoz sehe gu zepbus so ojak odaso sibufkov gu piogu miv. Akzot mo tahigjat akilomen hom mehemup ibe copa ber ane divagrim uhi gafus zipocliv bohac. Nurra ka ro visido fuvjok uzocecub imo levru rumirefa sigovked licmofot dunesho zasmub imwungo rer ur heciruwe. Heolabal luafevas vahgej gadobbe pew ifeizvog zupvom cepavon gu coggi nupbem fez sin ozjazu otrirpop."
+  },
+  "apiKey": "d6af4dbbe47fd726c3e7fe80b61d48590348db624f9f900055a2ef1b947fe463",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
