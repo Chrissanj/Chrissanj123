@@ -1,0 +1,26 @@
+{
+  "name": "Joe Newton",
+  "age": 42,
+  "address": {
+    "street": "Wawse Road",
+    "city": "Jobojpe",
+    "state": "DC",
+    "zip": "10598"
+  },
+  "contact": {
+    "phone": "(277) 565-6644",
+    "servicePhone": "800911175"
+  },
+  "birthday": "1977-12-27T01:24:44.394Z",
+  "ip": "166.24.80.221",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji wowdib wijarlus opiwaz dokkopit vagtokof wu vekke ma va lamho gucok zadimuci. Bazef cirdon eregiw pipzumi giakgal vi foowjiv rifpu nu ebbovuf alena alnalec. Baf ot suotane sum ofgecehi ulobekep arfav ha gura dis ot jadu pomludac codde. Bin tous zegebja az wo nobdi zulreraca doike ajatep po dil kofrup maogas. Etikodo muulaedo ogsier iboti lugufu taehnej gokso siek hacdobemo nuedo ubo nogatoz viw ureeko.",
+    "bio": "Arusagiwu ta icaeseop ilzu forlozbub cul revno soteda muupe rib met mop bic jucbo pivi. Ci worvu ale te jugab epujeci riw horjap hotgolfe sem tewhe egave ociefo vinoul uzu vo ohiwo umi. Ek piw relza ec wazab esilojde pudu fijveh pikhan sisittaz womveji ge bagujo tupe."
+  },
+  "apiKey": "80e8cc461c357b05219c32bd66a872cfea3e5fee8216df504f6ff39f1f7748c6",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
