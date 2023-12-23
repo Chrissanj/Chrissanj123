@@ -1,0 +1,26 @@
+{
+  "name": "Frank Barber",
+  "age": 26,
+  "address": {
+    "street": "Umegac Pass",
+    "city": "Orkoga",
+    "state": "OK",
+    "zip": "60362"
+  },
+  "contact": {
+    "phone": "(282) 286-4479",
+    "servicePhone": "800465511"
+  },
+  "birthday": "1986-12-19T06:03:21.891Z",
+  "ip": "70.79.157.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Arivuguf apeele wudwabuk osdici pitilo vuwoni marsevfaf fi jus up taos garug latelfor ga. Zaada lik huhbi wat juahafu zufjem beiz hefuc sereg lefra si dac zidwevu. Lim roten vafo seves bam wakgid nauwi bacteg dah ej vorajaweh rofgev wu hopo enuok loawa we fez. Vu upa bapuhinu naet di cigoji lirumpik mozot sareromo duwlupvom igofuwjuw wikfe.",
+    "bio": "Bere gas alusu zanuk zazezife lawecu ni ci im wuv sifiphe melseri ipniumi kekta. Wa ososadki ugafume ope sojfo usadasot etho suwo dajuh pawfono awobe ruvbinjak nanal lidofha cow bejpi katjab hom. Ve lorilde zo heksuz rilun wuke foeciko adno sucemmis tuwcagif taref otikumgi rirulas butir liv mufef horjolfij lomjac."
+  },
+  "apiKey": "214246dd05e843bb99de91f12999ed8b78af474754d1e46cffd35c152228c6d5",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
