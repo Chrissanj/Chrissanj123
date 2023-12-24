@@ -1,0 +1,26 @@
+{
+  "name": "Joe Cross",
+  "age": 29,
+  "address": {
+    "street": "Ibiiwe Junction",
+    "city": "Womajvoz",
+    "state": "IL",
+    "zip": "50952"
+  },
+  "contact": {
+    "phone": "(641) 441-2022",
+    "servicePhone": "800218765"
+  },
+  "birthday": "1988-06-05T05:05:45.086Z",
+  "ip": "92.114.13.9",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu le zimefe vejvu gi fiwo dicdedbe codukuki cowi vimwereh fi famo koribdeh. Manam igkimsik siweguog tobo cebiaz siza aftoven uju areafka zescitafe jezu kauj zisemuvod. Uv hij rebikha dow kumdi jol mawotbed ra fecaafi ubuakomi turmij nil agewef wub me pamude neok ci. Hu nedejo fouwupu jevawiuho koopcan cedoev pilu bug umga no sucsecruj gelop gu de eslaefu zawzihe eteir vargi.",
+    "bio": "Gakdif ke pober buwo cike deasri epmunbiv hueb ozituluk abewaf peh fubvup. Aki goj tofki umagahwu ca ku lenjartoz fikutaj wula okuta wefip sim meli wolid cuw. Nor lomlo fesbavbar sahafwu ju nagos gafote idboc bih juwom dozge om jun bo ozaehiebu tav com. Tu eveedi puh burauko fu mubme mizaji fovzudwo hefsa zisdon jinfin ku cotsuvdu sekdeuta osuc gafdebcu teglih milaciv. Eblol bohegawe id gi natoz do du uh kemitub ra fof rofa dettow tov vig jamala."
+  },
+  "apiKey": "2ca4ddaadadbf391953cfc527c1dde1ed845fb0d6b5c40e07a1fb81d8972b72d",
+  "currency": {
+    "code": "EGP",
+    "name": "Egypt Pound"
+  }
+}
