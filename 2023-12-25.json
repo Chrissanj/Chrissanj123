@@ -1,0 +1,26 @@
+{
+  "name": "Maud Singleton",
+  "age": 54,
+  "address": {
+    "street": "Ullar Point",
+    "city": "Vidodaw",
+    "state": "VA",
+    "zip": "74409"
+  },
+  "contact": {
+    "phone": "(335) 536-3676",
+    "servicePhone": "800383238"
+  },
+  "birthday": "1968-05-03T04:01:42.289Z",
+  "ip": "252.13.211.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Fogak ru kabocgu fodi ves cuiga jumolugew wedogu momanog jun zuokikob hos lis if roh ef. Zeiv ahawouva du dub horez ofagur alvamen gisowi iga kepo foezizu uruulco tuvitu nucauco ilu da ilo lebiblo. Heemewun ento ugcab hajfazir liwafarus veneweol zukohula ijele ujti be hajmac efewec dimiti to buvoval. Filafif mu tevhejo bip pow mo rej av kulusuhi vutiel suja ces vatunu tin ko cilahi uso. Miwowmi suwjo ducrofmi jas ricveiw vikzo alpaj bu pemko cijsanok fitami ej. Faip towivo pipzuv geg viugigip pe vumujebot deusiuno jowe woidusu mikuc sufjifwe vulakru zotaktu.",
+    "bio": "Teceh eg niz kuginpo rihe siba li fi duezni wacebwib tidemgi lenow vaavego fiski vuj cewtir jajoj ta. Surubot zif ubomo vaduba mathedos davul sivdu ragduk web jes pa onuru peludod vaawu tejiha wu. Soseun bu guabuuf tebov jop wifobu lu cegbalefu gad onalaksob erabacgen masboimo te gozib bot ku azveki. Cazpok ipjar cefpo daceti coba kub jaseva febtih fuwig eraka cefe ubu fukepgap."
+  },
+  "apiKey": "84a0ab8643a18d9c82aa0f236aa2a9bda916fae600ad7c8f9598c068e4389f53",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
