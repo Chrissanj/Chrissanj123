@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Lawson",
+  "age": 22,
+  "address": {
+    "street": "Hami Street",
+    "city": "Ohjohkom",
+    "state": "ID",
+    "zip": "69493"
+  },
+  "contact": {
+    "phone": "(466) 992-9101",
+    "servicePhone": "800948516"
+  },
+  "birthday": "1976-11-24T20:09:05.836Z",
+  "ip": "198.145.160.202",
+  "foo": "bar",
+  "profile": {
+    "about": "Onotemah ir iser orojac hu seziep pun kive nihawu ekecok camlutak pik vuj zanpat ih bew foupa. Ka bit marodi radaw rum od asi gobiccu rer taus sakil vimfu kaklabwe cez faf. De wu voz dazozi irifaju atu ho jetgag kacon mencol reol abipijaz ricvo tehlawmo mab ge cez efahore.",
+    "bio": "Biwujol remene iga jal comgozjor wimkut tenposbi mupoti ofu ane pikvesso nokdif omoses ow. Ce hiub hoamilil rot soecjih pujvuc wem nuc izususpe pabhebjuj pu ladagif age uvi lana. Rom bupove dat bibfilo sicfah fegcow ifieda canag an enizevem atmojik ka zafogfa utufimuj. Bizcanoz livzi pizes pego vor ivuvajlut daufeca lifokibo gelezbu lotjujo weh tun ermide rawortap hasfajiz je rabfip."
+  },
+  "apiKey": "734828affeaa5883efe9ef28a64477d93ff2fc07bcb3d6f89b78da800b1d00b9",
+  "currency": {
+    "code": "CVE",
+    "name": "Cape Verde Escudo"
+  }
+}
