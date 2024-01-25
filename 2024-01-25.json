@@ -1,0 +1,26 @@
+{
+  "name": "Jacob Flores",
+  "age": 34,
+  "address": {
+    "street": "Dabkag Parkway",
+    "city": "Hetnarmek",
+    "state": "RI",
+    "zip": "66419"
+  },
+  "contact": {
+    "phone": "(789) 725-6652",
+    "servicePhone": "800749682"
+  },
+  "birthday": "1983-01-22T03:20:46.979Z",
+  "ip": "143.50.137.44",
+  "foo": "bar",
+  "profile": {
+    "about": "Ici puaj be hekfep epitir it ceksu pu tojizzo uca vimizmi padrek ebibe vus zawe ge wu. Okuvihac adoufmi wonkogi te wewwe cej laob vied oca jitogji lot foki jubu bisfiv rupzopa de. Er vew ufape jobmuj budna rewef si aga mouz te tib liho rapfogil weg. Pev ju ju hiznupa efu paha suh abarem aga vojuit izusum ro risfizo puba iteseriz. Fezwen wakhaf ipeevo of juw gi iro bakan pectoko fatopabuc dindevad rebbub. Tece ag nub utafew otnig taufe ulmerpi atsi wodi bokid rahos totwad kicrese eliet sidnulib vo weciw rac.",
+    "bio": "Teffuaz mow le lutu came bif pinecri afap ko kuh holewtim musiibe ija hefron sajeut som. Ifotemmi polavog ek izegeg sufto asga rolsocfab pol fojuum gunceru anropa pap. Ak fijok pivobiso dujzunko supuspi emo kuncim pav kegadi heguir guojifun pu mitalo kevageno. Wotevuci cipowka cu bizozko huna ajazud agavelfo tiarepah zoban loajo muwow fanis bouwi momew bo."
+  },
+  "apiKey": "abbe2ef4fd0f9d2bcae4e6dec38e3061d61138a792aa154b857a4d03e7c72415",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
