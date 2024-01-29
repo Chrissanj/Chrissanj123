@@ -1,0 +1,26 @@
+{
+  "name": "Danny Strickland",
+  "age": 43,
+  "address": {
+    "street": "Owasi Square",
+    "city": "Ezapofahi",
+    "state": "IA",
+    "zip": "26858"
+  },
+  "contact": {
+    "phone": "(677) 650-4647",
+    "servicePhone": "800519411"
+  },
+  "birthday": "1973-06-23T01:20:56.622Z",
+  "ip": "170.111.77.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Sowahe ter ja befrom retepe bikuzo jujorom de cepugto adgara zojleh tibave vohtac. Otki podupi ja faefo vu ko hug bibu luv tudo wu po sekwuw ija ho wudjahki fahazti zorurba. Idviw ipfuco eheta ri so etoka bam moblocbe cofopdi em gigume hekaz za iwe zah. Se avtilhi ja fibtim si bi now temmaj ref biuheaco oszig un ani hidag vu agafeg.",
+    "bio": "Uhe heh porik suhow kuffu vazpag umojipoz fidihsa co sucnoit ukajab si zojzi waw deh vazjas atufehmen. Kumi pod bamidel hecfacri wob vab niuftub kilos tofollo robze ihpe fiwbo ejki ultotmar evone areni. Jovbilni avupatcin zovram peju gek eseoceal rikoih nezaf zihola buzfidmow gu neanihof levanir pugru se. Gi uw luzij wu zocuja coduwse jowiupi weh nivsa ta robsorwu copje ledda namred ad ce iveworko. Tihoz omus ete aweniwo de ujhi itomda abelujeto monbahi nejcali suafaeto ewaibirit ro hegime mat."
+  },
+  "apiKey": "df004a221f7891903e7cc95e65b01655e40fa7c70a6114b671ab58daa5998a81",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
