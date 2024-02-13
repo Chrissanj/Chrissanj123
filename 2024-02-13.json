@@ -1,0 +1,26 @@
+{
+  "name": "Irene Newman",
+  "age": 22,
+  "address": {
+    "street": "Lubok Street",
+    "city": "Kokore",
+    "state": "NH",
+    "zip": "27714"
+  },
+  "contact": {
+    "phone": "(343) 314-1592",
+    "servicePhone": "800683149"
+  },
+  "birthday": "1999-08-17T08:46:05.839Z",
+  "ip": "248.87.224.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Pu uzourto ic vam pok manmo apu faz husdu ne co bati ud ikeduw fino sudizzic um. Cof acegohve simri cuckehof zo ruzolic awi cokviev nuj wada cilu fevoriba mic zaphauti upo. Jiful ca ag ivtane ak pon kemcefid bovgi nokbe ficpo mi vuptij ki wo pohboova. Ifojopav na ja guwkic kamaaka vej ahzit huzduf ner iwobebuc worumafa ne tolejto ubete. Ropbanuj kemhuh ge vir wug tegzoro feda tusbo fo fiz guztimud eti. Gul tanola ahiowtov bisofa gonad nez taokekuh sa bap jonwen gogrokdeg ifinadcu kircan simdop jos ok cajzec ilo.",
+    "bio": "Ku nasla won okber zawe uzuhu ojrid kagzonna nifdif parafo tilec meh uze. Lenvab wawa vanzilren votuw vo igowup ohvo ze lud lapez vojara carugsa javat lop febofoz tif. Gaaj nif egu ve do ak lurigpu heec iji jiw mu ukaju. Gisza bazpo dulu votiga iwuiravi neb gozood ob ebainjej daosi curahvop kuwegsuz piweri okuruwe ocmal saafeha odlo."
+  },
+  "apiKey": "373647c9fec08dd79540aa95b1b2c5abb10199ec97f02bab53288d8cea818a42",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
