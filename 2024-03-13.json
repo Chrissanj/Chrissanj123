@@ -1,0 +1,26 @@
+{
+  "name": "Arthur Castillo",
+  "age": 55,
+  "address": {
+    "street": "Kuhil Park",
+    "city": "Mavpevmec",
+    "state": "TX",
+    "zip": "69260"
+  },
+  "contact": {
+    "phone": "(563) 404-2937",
+    "servicePhone": "800329135"
+  },
+  "birthday": "2003-01-05T20:56:53.945Z",
+  "ip": "23.22.157.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Keefja ve iwi sios lerdega arjuda malkejkam icujotlo sanfojeg joh cefor uja. Jumpi jile ihoovezaf wuewunav af om dojbiili zahiz gihig gug bagilop ali pum. Naz no napujapi kitgud pupma owwali ho gene set gile ibbivok baruuho igegikjo tacopo.",
+    "bio": "Liba ipa kosbiliw fiindev bezbod kizpusel fit owavi ve jowaose ucri bipo caabeve husja. Ajihazag owe suac dabdaufu ikuno du esni er ab iwehuko oggi hasabik ni. Hu kubaw wihi paw cidmesa ow nilur fuga ricwe du cohaca mi. Alkucip ibe bafojapo bugeca kocokoj jahih het ila wa caljel buj cadwo iljecaf zim vuctimuf ibobec ba anlu."
+  },
+  "apiKey": "bda648358efb4f0a2589a90cd6eb0a419507ae30a01a4acc6d6f901067364d35",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
