@@ -1,0 +1,26 @@
+{
+  "name": "Susie Briggs",
+  "age": 56,
+  "address": {
+    "street": "Heac Boulevard",
+    "city": "Suruzi",
+    "state": "HI",
+    "zip": "06284"
+  },
+  "contact": {
+    "phone": "(959) 845-2886",
+    "servicePhone": "800169666"
+  },
+  "birthday": "1999-06-20T09:24:08.899Z",
+  "ip": "187.183.202.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Hewecak co fed ipielisu lorjeckip bozofoki laj muef ivesuf uvujibnu bebvipjis batog co of bac. Wac limzigul vejzu wotasgo nedmo an osgecez nud ekucini measi buhkuh ej tefer. Wuv jijri locsaho ke pimmepsi aze hit woew nasalieza zosda obibu so muzihes zeac moc vopoolo.",
+    "bio": "Nat vub upigifi watisomek ma ci bigutaac mukoglo ozme coluf jovuwi ose gib wafzep kejakavag izudi jodrovowe mitfagic. Witef ke pihigeb hamgapel diw ujoboal madevot zowkirmem pamukaj ilgusu ru jim. Guwhaij ikavawso nat nopulzo ponekmen dan woh evmo dobozok mocikjih efomena jekkiz varvufdom cohdijcaj wo."
+  },
+  "apiKey": "18bcbec0ce7499f59885f8170ddcf2c1ba28a85263b1d185c63725c7a0e74298",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
